@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(14, 39, 60);
+}
+
+section{
+    width: 900px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+article.box{
+    height: 270px;
+    width: 270px;
+    margin: 15px;
+    border-radius: 15px;
+    background-color: steelblue;
+}
+.btn-area .btn{
+    font-size: 20px;
+    font-weight: bolder;
+    width: 30%;
+    margin-top: 50px!important;
+}
+.btn-warning{
+    color: white!important;
+}
+
+#status {
+    background-color: transparent!important;
+}
